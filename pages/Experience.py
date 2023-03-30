@@ -13,7 +13,7 @@ with col2:
     st.write(f"[Company's Website]({'https://www.doodleblue.com/'})")
     st.write(f"""
 - Conducted thorough testing and debugging to ensure high-quality code, improving overall project efficiency and effectiveness.
-- Collaborated with cross-functional teams to develop and implement user-friendly, scalable web applications.
+- Collaborated with cross-functional teams to develop REST APIs and implement user-friendly, scalable React web applications.
 - Utilized version control systems such as Git and GitHub to manage code, streamline workflows, and maintain project integrity.
 - Employed agile methodologies to efficiently manage projects and prioritize tasks based on client needs and project timelines.
 - Demonstrated excellent problem-solving skills, quickly identifying and resolving technical issues to ensure seamless project completion.""")
