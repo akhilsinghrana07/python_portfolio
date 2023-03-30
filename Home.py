@@ -10,11 +10,26 @@ with col1:
 with col2:
     st.title("Akhil Singh Rana")
     content = """
-    Hi, I'm Akhil Singh Rana, a software engineer experienced in data engineering and web application development. I'm currently pursuing Software Engineering Technology at Centennial College in Toronto, and I hold a Bachelor's in Computer Science and Engineering from SRM Institute of Science and Technology in India.
+    Hi there! I am Akhil Singh Rana, a software engineer with experience in data engineering and web application development. I am currently pursuing Software Engineering Technology at Centennial College in Toronto.
 
-I have experience as a Software Engineer and Data Engineer Intern, where I collaborated with cross-functional teams, utilized version control systems, and employed data visualization tools and machine learning techniques. My skills include Python programming, PowerBI and Azure, Microsoft Excel, database management, and Docker.
+Previously, I completed my Bachelor's in Computer Science and Engineering from SRM Institute of Science and Technology in Chennai, India. During my academic journey, I gained a strong foundation in Python programming, data analysis, and SQL proficiency.
 
-I'm passionate about problem-solving, project efficiency, and continuous learning. I'm excited about new opportunities in software engineering
+SKILLS:
+
+Python (Pandas, NumPy, Matplotlib, Scikit-learn)
+.NET framework(C#)
+ReactJS( MVC , graphql, RESTFull API)
+PowerBI, Azure (Data lakes, Data Factory, Azure SQL Database, Cosmos DB)
+Microsoft Excel (Macros, V-Lookup, Power Query)
+SQL proficiency, database management, SQL queries
+Git, GitHub (cloning, merging, collaboration, Git actions)
+Web scraping and API integration with Python
+Data cleaning, wrangling, and visualization
+Machine learning (analysis, prediction)
+Docker (containerization, build image, deployment)
+Communication, presentation, and time management
+
+I am passionate about using my technical skills to solve complex problems and improve overall project efficiency and effectiveness. I am always eager to learn and grow, and I am excited about new opportunities in the field of software engineering.
     """
     st.info(content)
 
