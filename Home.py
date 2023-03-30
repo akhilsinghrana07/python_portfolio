@@ -1,14 +1,15 @@
 import streamlit as st
 import pandas as pd
 st.set_page_config(layout="wide")
-
+st.title("Akhil Singh Rana")
 col1, col2 = st.columns(2)
 with st.container():
     with col1:
+
         st.image('images/photo.png')
         st.title(f"[LinkedIn]({'https://www.linkedin.com/in/akhilsinghrana729/'})")
     with col2:
-        st.title("Akhil Singh Rana")
+
         content = """
         Hi there! I am Akhil Singh Rana, a software engineer with experience in data engineering and web application development. I am currently pursuing Software Engineering Technology at Centennial College in Toronto.
     
